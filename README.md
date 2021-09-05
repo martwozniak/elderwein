@@ -102,9 +102,11 @@ Wyróżniamy następujące typy przedmiotów według żadkości:
 
 - `Premium` - przedmiot zakupiony za walutę premium
 
-- `Krwawy` - za punkty, zdobywane w momencie ubijania przeciwników z różnicą +/- 30 poziomów
+- `Krwawy / Zakrwawiony` - za punkty, zdobywane w momencie ubijania przeciwników z różnicą +/- 30 poziomów
 
 # NPC oraz zadania
+
+W celu zapewnienia rozrywki na najwyższym poziomie w grze muszą zostac wprowadzone postacie NPC u których możliwe będzie wykonywanie określonych zadań na konkretny poziom doświadczenia. Za wykonyane zadania powinna być odpowiednia nagroda w złocie, punktach doświadczenia czy tez przedmiotach lub innych formach.
 
 ## Koncepcja
 
