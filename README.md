@@ -102,6 +102,8 @@ W grze wyróżniamy 4 typy przeciwników:
 
 ## Koncepcja przeciwników specjalnych
 
+W grze wystąpią przeciwnicy specjalni. Charakteryzować się będą tym, iż ich występowanie będzie uzależnione od trwającego wydarzenia specjalnego. Istnieje możliwość dodania stałych przeciwników specjalnych, których pokonanie będzie wiązało się z "nie lada wysiłkiem" dla graczy.
+
 # 🎇 Przedmioty
 
 Każda gra MMORPG wymaga tego, aby gracz posiadał określone przedmioty, które będzie mógł ulepszać lub kupić lepsze alternatywy dla obecnie posiadanych przedmiotów.
