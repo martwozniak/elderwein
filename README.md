@@ -80,9 +80,25 @@ W grze wyróżniamy różne typy postaci, a są to:
 
 Wraz z rozwojemy gry kolejne klasy będą dodawane.
 
-# Przeciwnicy
+# 🐲 Przeciwnicy
 
-## Koncepcja typów przeciwników
+Czym byłaby gra MMORPG jeśli nie byłoby w niej przeciwników dostosowanych poziomem trudności do gracza. W tym przypadku w różnych lokalizacjach spotkamy potwory / moby o określonym poziomie, a co za tym idzie gracz odkrywając kolejne lokalizacje będzie awansował z poziomu na poziom.
+
+**Dostępność lokalizacji**
+
+Możliwe są dwa scenariusze:
+
+1. Umożliwiamy graczowi dostęp do wszystkich lokalizacji niezależnie od poziomu
+2. Gracz wraz z osiągnięciem danego poziomu otrzymuje dostęp do konkretnych lokalizacji
+
+## Koncepcja typów
+
+W grze wyróżniamy 4 typy przeciwników:
+
+- `🐇 zwykły` - najbardziej pospolity rodzaj przeciwnika, najczęściej spotykany. Nagroda za pokonanie go jest symboliczna
+- `🐻 dziki` - ten typ możemy przypisać do niebezpiecznych zwierząt w grze takich jak niedźwiedzie czy kuny, jenoty ;) istnieje możliwość stworzenia człekokształtnych będących "dzikimi" przeciwnikami
+- `🐉 groźny` - typ "potężnych" przeciwników z którymi "ciężko" jest wygrać
+- `😈 poszukiwany` - przeciwnik pojawiający się w dowolnym miejscu i czasie. Łup z takiego przeciwnika jest niezwykły.
 
 ## Koncepcja przeciwników specjalnych
 
