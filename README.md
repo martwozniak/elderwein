@@ -128,7 +128,13 @@ W celu zapewnienia rozrywki na najwyższym poziomie w grze muszą zostac wprowad
 
 ## Koncepcja
 
-# Podstawowe mechaniki gry
+# 🔧 Podstawowe mechaniki gry
+
+Gra musi zawierać w sobie podstawowe mechaniki takie jak:
+
+- `mechanika walki`
+- `mechanika dodawania do znajomych oraz do wrogów`
+- `mechanika gildii / klanów`
 
 # Eventy specjalne
 
@@ -139,6 +145,12 @@ W celu zapewnienia rozrywki na najwyższym poziomie w grze muszą zostac wprowad
 - `[multiplayer]` Dodano mechanizm wymiany przedmiotów.
 
 # Podsumowania techniczne
+
+Implementacja chatu: socket.io
+Logika serwerowa gry: Unity Server / PHP
+Baza Danych: MySQL? / Postgress
+Implementacja gry na mobile: Unity
+Modele oraz mapy do gry: Blender / Unity
 
 ## Technologie
 
