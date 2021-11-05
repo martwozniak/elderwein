@@ -160,8 +160,13 @@ Infrastruktura musi być skalowalna oraz nie posiadać bootlenecków.
 
 Rozbudowa musi być łatwa oraz niedroga / oszczędna w środkach.
 
+## Architektura
+
+Do obsłużenia dużego ruchu niezbędne będzie użycie GCP/AWS lub serwera z dużą ilością ram (256GB?) i procesorem z serii np. Epyc od AMD.
+
+
 ## 🖥 Ostateczny wybór technologiczny
 
-`Język: `
-`Baza danych: `
-`Klient: `
+`Język: PHP`
+`Baza danych: MySQL/PostgreSQL`
+`Klient: Unity`
