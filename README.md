@@ -160,6 +160,8 @@ Infrastruktura musi być skalowalna oraz nie posiadać bootlenecków.
 
 Rozbudowa musi być łatwa oraz niedroga / oszczędna w środkach.
 
+Gra musi być wykonana w taki sposób, aby raz stworzony frontend gry był dzielony na urządzeniach mobilnych oraz desktopach. Front komunikuje się z serwerem po stronie backendu. Front musi być jak JavaScript, musi być w czasie rzeczywistym.
+
 ## Architektura
 
 Do obsłużenia dużego ruchu niezbędne będzie użycie GCP/AWS lub serwera z dużą ilością ram (256GB?) i procesorem z serii np. Epyc od AMD.
