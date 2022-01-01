@@ -17,7 +17,7 @@ Aplikacja mobilna stworzona została przy użyciu Unity. Konsumuje ona API, któ
 
 `(API)`
 
-- PHP8
+- PHP8 / Next.js / Express.js
 
 `(mobile)`
 
